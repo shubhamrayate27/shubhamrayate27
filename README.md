@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Advance Certification Program in Data Science & Analytics
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me shubhamrayate27@gmail.com
+- I have experience of 2 years of working on Power BI Dashboards & Micrsoft Excel Also Data cleaning
 
 <!---
 shubhamrayate27/shubhamrayate27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
